@@ -1,0 +1,7 @@
+{
+  "name": "SmartWardrobe",
+  "description": "An AI-powered smart wardrobe assistant to help you discover new outfits, try them on virtually, and coordinate with friends. Your personal stylist in your pocket.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
